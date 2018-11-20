@@ -7,12 +7,12 @@
 使用 pip 安装
 
 ```
-pip install git+https://github.com/zhwei820/health.git
+pip install git+https://github.com/zxyf/health.git
 ```
 
 添加requirements.txt
 ```
-git+https://github.com/zhwei820/health.git
+git+https://github.com/zxyf/health.git
 ```
 
 ## 配置
