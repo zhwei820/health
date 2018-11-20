@@ -6,7 +6,7 @@ DESCRIPTION = "health app"
 AUTHOR = "zw"
 AUTHOR_EMAIL = ""
 URL = ""
-VERSION = '0.1.3'
+VERSION = '0.1.4'
 PACKAGES = ['health', ]
 setup(
     name=NAME,
